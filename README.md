@@ -1,1 +1,2 @@
-# scip
+# SICP
+- run with racket <filename>

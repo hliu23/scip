@@ -1,0 +1,11 @@
+- 1.1
+  - Done in 1.txt
+  - Confirmed by running 1.rkt
+- 1.2
+  - Done in 2.rkt
+  - Confirmed with calculator
+- 1.3 
+  - Done in 3.rkt
+  - Confirmed (?) with test cases
+- 1.4 
+  - Done in 4.txt

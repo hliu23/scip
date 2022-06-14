@@ -1,0 +1,2 @@
+If the interpreter uses applicative-order evaluation, no output will be produced as the interpreter will attempt to evaluate (p) first and become stuck in an infinite loop, in which it keeps referring to the definition of (p) to evaluate (p) but is instead referred to the definition of (p) again.
+If the interpreter uses normal-order evaluation, it will produce the output of 0 since the predicate evaluates to true, therefore 0 instead of (p) will be evaluated. 

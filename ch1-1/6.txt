@@ -1,0 +1,1 @@
+The program will be stuck in an infinite loop b/c applicative-order evaluation forces the program to call itself (sqrt-iter) every time before evaluating the expression. 

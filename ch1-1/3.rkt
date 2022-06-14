@@ -2,7 +2,8 @@
 
 (define (sqrt x) (* x x))
 (define (sum a b) (+ (sqrt a) (sqrt b)))
-(define (ans a b c) (cond 
+(define (ans a b c) 
+  (cond 
   ((and (>= b a) (>= c a)) (sum b c))
   ((and (>= a b) (>= c b)) (sum a c))
   ((and (>= a c) (>= b c)) (sum a b))

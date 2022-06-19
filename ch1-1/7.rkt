@@ -24,7 +24,7 @@
 ;;; 0.0009765631660156936
 
 ;;; very large number
-;;; (square (sqrt 129945434298001239954))
+(square (sqrt 129945434298001239954))
 ;;; not finish
 
   ;;; (previous example: 

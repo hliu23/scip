@@ -1,2 +1,2 @@
 # SICP
-- run with racket <filename>
+- run with racket filename
